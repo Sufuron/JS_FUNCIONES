@@ -153,6 +153,35 @@ main {
   }
 }
 
+h4 {
+  width: 100%;
+  text-align: center;
+  background-color: azure;
+  border-radius: 40px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: -15%;
+  padding: 10px;
+}
+
+h5 {
+  width: 100%;
+  text-align: center;
+  background-color: azure;
+  border-radius: 40px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: -10%;
+  padding: 10px;
+}
+
+#div1, #div2, #div3, #div4 {
+  margin: 3px;
+  border-radius: 30px;
+}
+
+
+
 footer {
     padding: 1em 0;
     color: rgb(253, 253, 253);
